@@ -1,0 +1,7 @@
+C:\Users\Phatom-04\Documents\Kael\SolutionBase\Console2048\bin\Debug\Console2048.exe.config
+C:\Users\Phatom-04\Documents\Kael\SolutionBase\Console2048\bin\Debug\Console2048.exe
+C:\Users\Phatom-04\Documents\Kael\SolutionBase\Console2048\bin\Debug\Console2048.pdb
+C:\Users\Phatom-04\Documents\Kael\SolutionBase\Console2048\obj\Debug\Console2048.csprojAssemblyReference.cache
+C:\Users\Phatom-04\Documents\Kael\SolutionBase\Console2048\obj\Debug\Console2048.csproj.CoreCompileInputs.cache
+C:\Users\Phatom-04\Documents\Kael\SolutionBase\Console2048\obj\Debug\Console2048.exe
+C:\Users\Phatom-04\Documents\Kael\SolutionBase\Console2048\obj\Debug\Console2048.pdb
